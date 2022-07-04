@@ -1,7 +1,9 @@
+[![Maintained by Nimbux911](https://img.shields.io/badge/maintained%20by-nimbux911.com-%235849a6.svg)](https://www.nimbux911.com/)
+
 # terraform-aws-route53
 Terraform module to create route 53 hosted zones.
 
-## Usages
+## Usage
 
 ### Example for public zone:
 
